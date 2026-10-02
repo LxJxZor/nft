@@ -1,9 +1,0 @@
-{
-  "name": "Heavy Tractor V1 [Serial #001]",
-  "description": "Тестовый NFT-актив фракции RED на GitHub Pages.",
-  "image": "https://githubusercontent.com",
-  "attributes": [
-    { "trait_type": "Asset Type", "value": "heavy_tractor" },
-    { "trait_type": "Serial", "value": 1 }
-  ]
-}
