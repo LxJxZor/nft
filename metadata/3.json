@@ -1,0 +1,9 @@
+{
+  "name": "Luminescent Tree [Serial #001]",
+  "description": "Тестовое NFT-дерево фракции BLU на GitHub Pages.",
+  "image": "https://githubusercontent.com",
+  "attributes": [
+    { "trait_type": "Asset Type", "value": "luminescent_tree" },
+    { "trait_type": "Serial", "value": 1 }
+  ]
+}
